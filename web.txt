@@ -1,0 +1,15 @@
+**How does the internet work? 
+
+-The internet is a network that connects computers around the world. In order for the
+computers to communicate, they need to be connected to a router so they can access the 
+internet. The internet is like a highway. The users are the cars, and the exits are 
+individual websites. The road is a visual representaion for how the users get from one 
+endpoints to another.
+
+
+What happens when you click on a link? **
+
+-When a user clicks on a link, they travel from one point to another. This is all made possible 
+thanks to DNS. The browser will take the url that a link directs you too. Then, the browser talks 
+to the DNS where the url is broken down into an IP address. With this IP address, a user can successfully
+be redirected to the links endpoint. 
